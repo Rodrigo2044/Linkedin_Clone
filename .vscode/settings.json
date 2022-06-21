@@ -1,0 +1,6 @@
+{
+  "diffEditor.wordWrap": "inherit",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.renderIndicators": true,
+  "editor.formatOnType": false
+}
